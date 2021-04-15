@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:grey;">
+<body style="background-color:sky-blue;">
 <h1> Hello, Welcome ! </h1>
 <h2> Deploying through jenkins on tomcat under Docker Container   </h2>
 <h3> Success </h3>
